@@ -1,10 +1,20 @@
+# Mitre Attack Proejct
+
+SE 356 Web Application Development Project
+
 You should lunch the index.html file with a local server,
 e.g. Visual Studio "Live Server" extension.
 Otherwise it will fail to load resources since file protocol is not supported on web pages.
 
+## Screenshots:
+
+![](./screenshots/Login.png)
+![](./screenshots/Homepage.png)
+![](./screenshots/TestOne.png)
+
 Known issues:
 
-1- Sometimes you can't login with a new registered account. I don't know what causes that.
+1- Sometimes you can't login with a new registered account.
 
 2- While test 1 is running, if you start test 2 and go back to test 1 page, start button of
 the test 1 enables again. (It does not happen everytime.)
