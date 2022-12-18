@@ -1,0 +1,1 @@
+powershell -command "Get-Process | Out-File -FilePath .\testOne_RESULT.myproject"
