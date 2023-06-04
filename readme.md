@@ -4,7 +4,6 @@ SE 356 Web Application Development Project
 
 You should lunch the index.html file with a local server,
 e.g. Visual Studio "Live Server" extension.
-Otherwise it will fail to load resources since file protocol is not supported on web pages.
 
 ## Screenshots:
 
@@ -23,4 +22,4 @@ the test 1 enables again. (It does not happen everytime.)
 
 4- If browser remembers your login information, placeholder text and login values overlaps.
 
-5- Some elements are not responsive to resolution.
+5- Some elements are not responsive.
